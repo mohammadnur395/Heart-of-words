@@ -5,9 +5,9 @@
   **An interactive, mathematically-driven typographic canvas animation powered by pure Vanilla JavaScript.**
 
   <p align="center">
-    <a href="https://github.com/saklincodes/Heart-of-Words/stargazers"><img src="https://img.shields.io/github/stars/saklincodes/Heart-of-Words?style=for-the-badge&logo=starship&color=ff2a6d&logoColor=white" alt="Stars"></a>
-    <a href="https://github.com/saklincodes/Heart-of-Words/network/members"><img src="https://img.shields.io/github/forks/saklincodes/Heart-of-Words?style=for-the-badge&color=ff5285" alt="Forks"></a>
-    <a href="https://github.com/saklincodes/Heart-of-Words/blob/main/LICENSE"><img src="https://img.shields.io/github/license/saklincodes/Heart-of-Words?style=for-the-badge&color=ffa8c0&logoColor=white" alt="License"></a>
+    <a href="https://github.com/Heart-of-Words/stargazers"><img src="https://img.shields.io/github/star/Heart-of-Words?style=for-the-badge&logo=starship&color=ff2a6d&logoColor=white" alt="Stars"></a>
+    <a href="https://github.com/Heart-of-Words/network/members"><img src="https://img.shields.io/github/forks/Heart-of-Words?style=for-the-badge&color=ff5285" alt="Forks"></a>
+    <a href="https://github.com/Heart-of-Words/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Heart-of-Words?style=for-the-badge&color=ffa8c0&logoColor=white" alt="License"></a>
     <img src="https://img.shields.io/badge/Dependencies-0%20(Pure%20Vanilla)-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Zero Dependencies">
     <img src="https://img.shields.io/badge/PRs-Welcome-ff2a6d?style=for-the-badge" alt="PRs Welcome">
   </p>
